@@ -1,0 +1,22 @@
+{
+  "name": "vidtubeyt",
+  "version": "1.0.0",
+  "description": "this is a series to develop backend od youtube like video streaming websites",
+  "keywords": [
+    "backend",
+    "vidtube",
+    "and",
+    "me"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "\\"
+  },
+  "license": "ISC",
+  "author": "Divyansh Saini",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
